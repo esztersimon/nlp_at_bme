@@ -1,2 +1,2 @@
 # nlp_at_bme
-Teaching material of NLP course on BME for Mathematics BSc 
+Teaching material of NLP course at BME Mathematics BSc 
