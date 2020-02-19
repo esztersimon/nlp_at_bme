@@ -12,4 +12,4 @@ Place: BME H601
 | Alkalom | Leírás |
 |---------|--------|
 | 01. | Technical details. Introduction to Computational Linguistics. Some Brief History. [slides](01.Intro/NLP_BME1.pdf) |
-| 02. | |
+| 02. | Introduction to Linguistics. [slides](02.Linguistics/NLP_BME2.pdf )|
