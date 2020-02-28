@@ -13,3 +13,4 @@ Place: BME H601
 |---------|--------|
 | 01. | Technical details. Introduction to Computational Linguistics. Some Brief History. [slides](01.Intro/NLP_BME1.pdf) |
 | 02. | Introduction to Linguistics. [slides](02.Linguistics/NLP_BME2.pdf )|
+| 03. | Automata and Transducers. [slides](03.Automata/)
