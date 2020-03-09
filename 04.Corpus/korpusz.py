@@ -50,9 +50,9 @@ for link in links:
 
 # szöveg
 
-print(links[4])
+print(links[0])
 print()
-print(links[4].get_text())  # .get_text() kinyeri az adott tagen belüli (összes) szöveget
+print(links[0].get_text())  # .get_text() kinyeri az adott tagen belüli (összes) szöveget
 
 
 
