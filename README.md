@@ -20,3 +20,5 @@ Place: BME H601
 ## Homeworks
 
 Homework for the 2nd lesson: [solution](hws/02hf.pdf)
+
+Homework for the 3rd lesson: [solution](hws/03hf.pdf)
