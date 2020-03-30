@@ -16,7 +16,8 @@ Place: BME H601
 | 03. | Automata and Transducers. [slides](03.Automata/NLP_BME3.pdf) [excersises](03.Automata/3_ora_automatak.ipynb)|
 | 04. | Corpora. [slides](04.Corpus/NLP_BME4.pdf) [excersises](04.Corpus/04_korpusz.ipynb) |
 | 05. | Annotation. [slides](05.Annotation/NLP_BME5.pdf) [excersises](05.Annotation/05_annotacio.ipynb) |
-| 06. | N-gram language models. [chapter](06.Ngrams/ngrams.pdf)
+| 06. | N-gram language models. [chapter](06.Ngrams/ngrams.pdf) |
+| 07. | Machine learning. [guide](07.MachineLearning/NLP_BME7_jegyzet.pdf) [slides](07.MachineLearning/NLP_BME7_slides.pdf) |
 
 ## Homeworks
 
