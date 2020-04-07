@@ -18,6 +18,7 @@ Place: BME H601
 | 05. | Annotation. [slides](05.Annotation/NLP_BME5.pdf) [excersises](05.Annotation/05_annotacio.ipynb) |
 | 06. | N-gram language models. [chapter](06.Ngrams/ngrams.pdf) |
 | 07. | Machine learning. [guide](07.MachineLearning/NLP_BME7_jegyzet.pdf) [slides](07.MachineLearning/NLP_BME7_slides.pdf) |
+| 08. | Syntactic analysis. [notes](08.SyntacticAnalysis/NLP_BME8.pdf) |
 
 ## Homeworks
 
