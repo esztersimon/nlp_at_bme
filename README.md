@@ -20,7 +20,7 @@ Place: BME H601
 | 07. | Machine learning. [guide](07.MachineLearning/NLP_BME7_jegyzet.pdf) [slides](07.MachineLearning/NLP_BME7_slides.pdf) |
 | 08. | Syntactic analysis. [notes](08.SyntacticAnalysis/NLP_BME8.pdf) |
 | 09. | Introduction to semantics. & Statistical properties of language. |
-| 10. | Vector Semantics and Embeddings. [chapter]() [slides]() | 
+| 10. | Vector Semantics and Embeddings. [chapter](http://web.stanford.edu/~jurafsky/slp3/6.pdf) [slides](09.VectorSemantics/NLP_BME9.pdf) | 
 
 ## Homeworks
 
