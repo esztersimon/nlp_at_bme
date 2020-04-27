@@ -19,9 +19,15 @@ Place: BME H601
 | 06. | N-gram language models. [chapter](06.Ngrams/ngrams.pdf) |
 | 07. | Machine learning. [guide](07.MachineLearning/NLP_BME7_jegyzet.pdf) [slides](07.MachineLearning/NLP_BME7_slides.pdf) |
 | 08. | Syntactic analysis. [notes](08.SyntacticAnalysis/NLP_BME8.pdf) |
+| 09. | Introduction to semantics. & Statistical properties of language. |
+| 10. | Vector Semantics and Embeddings. [chapter]() [slides]() | 
 
 ## Homeworks
 
 Homework for the 2nd lesson: [solution](hws/02hf.pdf)
 
 Homework for the 3rd lesson: [solution](hws/03hf.pdf)
+
+Homework for the 6th lesson: [solution](hws/06hf.pdf)
+
+Homework for the 8th lesson: [description](hws/08hf.pdf) [python code](hws/iob2bie1.py)
