@@ -21,6 +21,7 @@ Place: BME H601
 | 08. | Syntactic analysis. [notes](08.SyntacticAnalysis/NLP_BME8.pdf) |
 | 09. | Introduction to semantics. & Statistical properties of language. |
 | 10. | Vector Semantics and Embeddings. [chapter](http://web.stanford.edu/~jurafsky/slp3/6.pdf) [slides](09.VectorSemantics/NLP_BME9.pdf) | 
+| 11. | Word Senses and WordNet. [chapter](http://web.stanford.edu/~jurafsky/slp3/19.pdf) [slides](10.WordSensesWordNet/NLP_BME10.pdf) | 
 
 ## Homeworks
 
