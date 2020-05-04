@@ -31,4 +31,6 @@ Homework for the 3rd lesson: [solution](hws/03hf.pdf)
 
 Homework for the 6th lesson: [solution](hws/06hf.pdf)
 
+Homework for the 7th lesson: [solution](hws/07hf.pdf)
+
 Homework for the 8th lesson: [description](hws/08hf.pdf) [python code](hws/iob2bie1.py)
