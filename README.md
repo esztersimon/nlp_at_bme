@@ -19,7 +19,7 @@ Place: BME H601
 | 06. | N-gram Language Models. [chapter](06.Ngrams/ngrams.pdf) |
 | 07. | Machine Learning. [notes](07.MachineLearning/NLP_BME7_jegyzet.pdf) [slides](07.MachineLearning/NLP_BME7_slides.pdf) |
 | 08. | Syntactic Analysis. [notes](08.SyntacticAnalysis/NLP_BME8.pdf) |
-| 09. | Introduction to Semantics. & Statistical Properties of Language. | [chapter1](09.Semantics/Crystal_15.pdf) [chapter2](09.Semantics/Crystal_17.pdf)
+| 09. | Introduction to Semantics. & Statistical Properties of Language. [chapter1](09.Semantics/Crystal_15.pdf) [chapter2](09.Semantics/Crystal_17.pdf) |
 | 10. | Vector Semantics and Embeddings. [chapter](http://web.stanford.edu/~jurafsky/slp3/6.pdf) [slides](10.VectorSemantics/NLP_BME9.pdf) | 
 | 11. | Word Senses and WordNet. [chapter](http://web.stanford.edu/~jurafsky/slp3/19.pdf) [slides](11.WordSensesWordNet/NLP_BME10.pdf) | 
 
