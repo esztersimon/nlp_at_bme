@@ -11,17 +11,17 @@ Place: BME H601
 
 | Lesson | Description |
 |---------|--------|
-| 01. | Technical details. Introduction to Computational Linguistics. Some Brief History. [slides](01.Intro/NLP_BME1.pdf) |
+| 01. | Technical Details. Introduction to Computational Linguistics. Some Brief History. [slides](01.Intro/NLP_BME1.pdf) |
 | 02. | Introduction to Linguistics. [slides](02.Linguistics/NLP_BME2.pdf )|
 | 03. | Automata and Transducers. [slides](03.Automata/NLP_BME3.pdf) [excersises](03.Automata/3_ora_automatak.ipynb)|
 | 04. | Corpora. [slides](04.Corpus/NLP_BME4.pdf) [excersises](04.Corpus/04_korpusz.ipynb) |
 | 05. | Annotation. [slides](05.Annotation/NLP_BME5.pdf) [excersises](05.Annotation/05_annotacio.ipynb) |
-| 06. | N-gram language models. [chapter](06.Ngrams/ngrams.pdf) |
-| 07. | Machine learning. [guide](07.MachineLearning/NLP_BME7_jegyzet.pdf) [slides](07.MachineLearning/NLP_BME7_slides.pdf) |
-| 08. | Syntactic analysis. [notes](08.SyntacticAnalysis/NLP_BME8.pdf) |
-| 09. | Introduction to semantics. & Statistical properties of language. |
-| 10. | Vector Semantics and Embeddings. [chapter](http://web.stanford.edu/~jurafsky/slp3/6.pdf) [slides](09.VectorSemantics/NLP_BME9.pdf) | 
-| 11. | Word Senses and WordNet. [chapter](http://web.stanford.edu/~jurafsky/slp3/19.pdf) [slides](10.WordSensesWordNet/NLP_BME10.pdf) | 
+| 06. | N-gram Language Models. [chapter](06.Ngrams/ngrams.pdf) |
+| 07. | Machine Learning. [notes](07.MachineLearning/NLP_BME7_jegyzet.pdf) [slides](07.MachineLearning/NLP_BME7_slides.pdf) |
+| 08. | Syntactic Analysis. [notes](08.SyntacticAnalysis/NLP_BME8.pdf) |
+| 09. | Introduction to Semantics. & Statistical Properties of Language. | [chapter1](09.Semantics/Crystal_15.pdf) [chapter2](09.Semantics/Crystal_17.pdf)
+| 10. | Vector Semantics and Embeddings. [chapter](http://web.stanford.edu/~jurafsky/slp3/6.pdf) [slides](10.VectorSemantics/NLP_BME9.pdf) | 
+| 11. | Word Senses and WordNet. [chapter](http://web.stanford.edu/~jurafsky/slp3/19.pdf) [slides](11.WordSensesWordNet/NLP_BME10.pdf) | 
 
 ## Homeworks
 
