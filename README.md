@@ -22,6 +22,7 @@ Place: BME H601
 | 09. | Introduction to Semantics. & Statistical Properties of Language. [chapter1](09.Semantics/Crystal_15.pdf) [chapter2](09.Semantics/Crystal_17.pdf) |
 | 10. | Vector Semantics and Embeddings. [chapter](http://web.stanford.edu/~jurafsky/slp3/6.pdf) [slides](10.VectorSemantics/NLP_BME9.pdf) | 
 | 11. | Word Senses and WordNet. [chapter](http://web.stanford.edu/~jurafsky/slp3/19.pdf) [slides](11.WordSensesWordNet/NLP_BME10.pdf) | 
+| 12. | Neural Networks and Neural Language Models. [chapter](http://web.stanford.edu/~jurafsky/slp3/7.pdf) [slides](12.NeuralNetworks/NLP_BME12.pdf)
 
 ## Homeworks
 
